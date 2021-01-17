@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+.slideshow-container {
+  max-width: 500px;
+  position: relative;
+  margin: auto;
+}
+
+.slide {
+  display: none;
+}
+
+img {
+	vertical-align: middle;
+}
